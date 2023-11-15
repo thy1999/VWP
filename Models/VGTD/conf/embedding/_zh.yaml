@@ -1,0 +1,4 @@
+# @package _global_
+
+emb_mapping:
+  glove_zh: ${root}/data/glove/glove.weibo.bigram-char.300d.txt
